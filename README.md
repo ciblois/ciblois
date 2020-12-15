@@ -8,4 +8,6 @@
 Ironhack Lisboa's Bootcamp in *Data Analytics*
 * 🌱 I’m currently learning more about `Power BI` and `Tableau`
 * 🤔 I’m looking for a *Junior Position in Data Visualization*
-* 📫 How to reach me: https://www.linkedin.com/in/cinthyalblois/
+* 📫 How to reach me: 
+[Linkdien](https://www.linkedin.com/in/cinthyalblois/)
+<i class="fa fa-so"></i>
